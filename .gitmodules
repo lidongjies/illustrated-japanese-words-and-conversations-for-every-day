@@ -1,0 +1,4 @@
+[submodule "genanki"]
+	path = genanki
+	url = git@github.com:kerrickstaley/genanki.git
+	branch = main
