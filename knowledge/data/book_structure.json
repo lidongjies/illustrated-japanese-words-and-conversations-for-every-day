@@ -1,0 +1,448 @@
+{
+  "book_structure": [
+    {
+      "topic": "文化节庆",
+      "topic_ja": "年中行事",
+      "units": [
+        {
+          "id": 1,
+          "name": "观光景点",
+          "name_ja": "観光スポット",
+          "roman": "Kankō supotto"
+        },
+        {
+          "id": 2,
+          "name": "日本特产",
+          "name_ja": "日本の名産",
+          "roman": "Nihon no meisan"
+        },
+        {
+          "id": 3,
+          "name": "日本美食",
+          "name_ja": "日本のグルメ",
+          "roman": "Nihon no gurume"
+        },
+        {
+          "id": 4,
+          "name": "日本纪念品",
+          "name_ja": "日本のお土産",
+          "roman": "Nihon no omiyage"
+        },
+        {
+          "id": 5,
+          "name": "传统艺术",
+          "name_ja": "伝統芸能",
+          "roman": "Dentō geinō"
+        },
+        {
+          "id": 6,
+          "name": "婚礼",
+          "name_ja": "結婚式",
+          "roman": "Kekkonshiki"
+        },
+        {
+          "id": 7,
+          "name": "赏花",
+          "name_ja": "花見",
+          "roman": "Hanami"
+        },
+        {
+          "id": 8,
+          "name": "烟花大会",
+          "name_ja": "花火大会",
+          "roman": "Hanabi taikai"
+        },
+        {
+          "id": 9,
+          "name": "庙会",
+          "name_ja": "お祭",
+          "roman": "Omatsuri"
+        },
+        {
+          "id": 10,
+          "name": "温泉",
+          "name_ja": "温泉",
+          "roman": "Onsen"
+        },
+        {
+          "id": 11,
+          "name": "除夕",
+          "name_ja": "年越し",
+          "roman": "Toshikoshi"
+        },
+        {
+          "id": 12,
+          "name": "新年",
+          "name_ja": "新年",
+          "roman": "Shinnen"
+        },
+        {
+          "id": 13,
+          "name": "情人节",
+          "name_ja": "バレンタインデー",
+          "roman": "Barentain dē"
+        },
+        {
+          "id": 14,
+          "name": "孩子的节日",
+          "name_ja": "子供のお祝い",
+          "roman": "Kodomo no oiwai"
+        },
+        {
+          "id": 15,
+          "name": "七五三节",
+          "name_ja": "七五三",
+          "roman": "Shichi-go-san"
+        },
+        {
+          "id": 16,
+          "name": "中秋节",
+          "name_ja": "お月見",
+          "roman": "Otsukimi"
+        },
+        {
+          "id": 17,
+          "name": "万圣节",
+          "name_ja": "ハロウィン",
+          "roman": "Harowin"
+        },
+        {
+          "id": 18,
+          "name": "圣诞节",
+          "name_ja": "クリスマス",
+          "roman": "Kurisumasu"
+        }
+      ]
+    },
+    {
+      "topic": "居家日常",
+      "topic_ja": "家",
+      "units": [
+        {
+          "id": 19,
+          "name": "玄关",
+          "name_ja": "玄関",
+          "roman": "Genkan"
+        },
+        {
+          "id": 20,
+          "name": "客厅",
+          "name_ja": "リビングルーム",
+          "roman": "Ribingurūmu"
+        },
+        {
+          "id": 21,
+          "name": "卧室",
+          "name_ja": "ベッドルーム",
+          "roman": "Beddorūmu"
+        },
+        {
+          "id": 22,
+          "name": "化妆品",
+          "name_ja": "化粧品",
+          "roman": "Keshōhin"
+        },
+        {
+          "id": 23,
+          "name": "衣柜",
+          "name_ja": "クローゼット",
+          "roman": "Kurōzetto"
+        },
+        {
+          "id": 24,
+          "name": "儿童房",
+          "name_ja": "子ども部屋",
+          "roman": "Kodomo beya"
+        },
+        {
+          "id": 25,
+          "name": "婴儿房",
+          "name_ja": "赤ちゃんの部屋",
+          "roman": "Akachan no heya"
+        },
+        {
+          "id": 26,
+          "name": "急救箱",
+          "name_ja": "救急箱",
+          "roman": "Kyūkyūbako"
+        },
+        {
+          "id": 27,
+          "name": "和室",
+          "name_ja": "和室",
+          "roman": "Washitsu"
+        },
+        {
+          "id": 28,
+          "name": "餐桌",
+          "name_ja": "食卓",
+          "roman": "Shokutaku"
+        },
+        {
+          "id": 29,
+          "name": "厨房",
+          "name_ja": "キッチン",
+          "roman": "Kitchin"
+        },
+        {
+          "id": 30,
+          "name": "做点心",
+          "name_ja": "おやつを作ろう",
+          "roman": "Oyatsu o tsukurō"
+        },
+        {
+          "id": 31,
+          "name": "盥洗台",
+          "name_ja": "洗面所",
+          "roman": "Senmenjo"
+        },
+        {
+          "id": 32,
+          "name": "浴室",
+          "name_ja": "浴室",
+          "roman": "Yokushitsu"
+        },
+        {
+          "id": 33,
+          "name": "厕所",
+          "name_ja": "トイレ/お手洗い",
+          "roman": "Toire/Otearai"
+        },
+        {
+          "id": 34,
+          "name": "庭院",
+          "name_ja": "庭",
+          "roman": "Niwa"
+        },
+        {
+          "id": 35,
+          "name": "车库",
+          "name_ja": "車庫/ガレージ",
+          "roman": "Shako/Garēji"
+        }
+      ]
+    },
+    {
+      "topic": "生活城市",
+      "topic_ja": "生活と町",
+      "units": [
+        {
+          "id": 36,
+          "name": "商业街",
+          "name_ja": "商店街",
+          "roman": "Shōtengai"
+        },
+        {
+          "id": 37,
+          "name": "道路",
+          "name_ja": "道路",
+          "roman": "Dōro"
+        },
+        {
+          "id": 38,
+          "name": "百货公司",
+          "name_ja": "デパート",
+          "roman": "Depāto"
+        },
+        {
+          "id": 39,
+          "name": "超市",
+          "name_ja": "スーパー",
+          "roman": "Sūpā"
+        },
+        {
+          "id": 40,
+          "name": "餐厅",
+          "name_ja": "レストラン",
+          "roman": "Resutoran"
+        },
+        {
+          "id": 41,
+          "name": "咖啡厅",
+          "name_ja": "喫茶店",
+          "roman": "Kissaten"
+        },
+        {
+          "id": 42,
+          "name": "速食店",
+          "name_ja": "ファーストフード",
+          "roman": "Fāsutofūdo"
+        },
+        {
+          "id": 43,
+          "name": "居酒屋",
+          "name_ja": "居酒屋",
+          "roman": "Izakaya"
+        },
+        {
+          "id": 44,
+          "name": "邮局",
+          "name_ja": "郵便局",
+          "roman": "Yūbinkyoku"
+        },
+        {
+          "id": 45,
+          "name": "银行",
+          "name_ja": "銀行",
+          "roman": "Ginkō"
+        },
+        {
+          "id": 46,
+          "name": "电器店",
+          "name_ja": "電気屋",
+          "roman": "Denkiya"
+        },
+        {
+          "id": 47,
+          "name": "秋叶原",
+          "name_ja": "秋葉原",
+          "roman": "Akihabara"
+        },
+        {
+          "id": 48,
+          "name": "饭店",
+          "name_ja": "ホテル",
+          "roman": "Hoteru"
+        },
+        {
+          "id": 49,
+          "name": "公司",
+          "name_ja": "会社",
+          "roman": "Kaisha"
+        },
+        {
+          "id": 50,
+          "name": "学校",
+          "name_ja": "学校",
+          "roman": "Gakkō"
+        },
+        {
+          "id": 51,
+          "name": "教室",
+          "name_ja": "教室",
+          "roman": "Kyōshitsu"
+        },
+        {
+          "id": 52,
+          "name": "医院",
+          "name_ja": "病院",
+          "roman": "Byōin"
+        },
+        {
+          "id": 53,
+          "name": "疾病",
+          "name_ja": "病気",
+          "roman": "Byōki"
+        },
+        {
+          "id": 54,
+          "name": "身体",
+          "name_ja": "体",
+          "roman": "Karada"
+        }
+      ]
+    },
+    {
+      "topic": "旅游休闲",
+      "topic_ja": "旅行レジャー",
+      "units": [
+        {
+          "id": 55,
+          "name": "机场",
+          "name_ja": "空港",
+          "roman": "Kūkō"
+        },
+        {
+          "id": 56,
+          "name": "机舱内",
+          "name_ja": "機内",
+          "roman": "Kinai"
+        },
+        {
+          "id": 57,
+          "name": "旅行用品",
+          "name_ja": "旅行用品",
+          "roman": "Ryokō yōhin"
+        },
+        {
+          "id": 58,
+          "name": "地铁站",
+          "name_ja": "地下鉄の駅",
+          "roman": "Chikatetsu no eki"
+        },
+        {
+          "id": 59,
+          "name": "海滩",
+          "name_ja": "ビーチ",
+          "roman": "Bīchi"
+        },
+        {
+          "id": 60,
+          "name": "滑雪",
+          "name_ja": "スキー",
+          "roman": "Sukī"
+        },
+        {
+          "id": 61,
+          "name": "体育活动",
+          "name_ja": "スポーツ",
+          "roman": "Supōtsu"
+        },
+        {
+          "id": 62,
+          "name": "健身房",
+          "name_ja": "ジム",
+          "roman": "Jimu"
+        },
+        {
+          "id": 63,
+          "name": "露营",
+          "name_ja": "キャンプ",
+          "roman": "Kyanpu"
+        },
+        {
+          "id": 64,
+          "name": "主题公园",
+          "name_ja": "テーマパーク",
+          "roman": "Tēma pāku"
+        },
+        {
+          "id": 65,
+          "name": "演唱会",
+          "name_ja": "コンサート",
+          "roman": "Konsāto"
+        },
+        {
+          "id": 66,
+          "name": "漫画节",
+          "name_ja": "コミケ",
+          "roman": "Komike"
+        },
+        {
+          "id": 67,
+          "name": "电影院",
+          "name_ja": "映画館",
+          "roman": "Eigakan"
+        },
+        {
+          "id": 68,
+          "name": "美术馆",
+          "name_ja": "美術館",
+          "roman": "Bijutsukan"
+        },
+        {
+          "id": 69,
+          "name": "动物园",
+          "name_ja": "動物園",
+          "roman": "Dōbutsuen"
+        },
+        {
+          "id": 70,
+          "name": "牧场",
+          "name_ja": "牧場",
+          "roman": "Bokujō"
+        }
+      ]
+    }
+  ]
+}

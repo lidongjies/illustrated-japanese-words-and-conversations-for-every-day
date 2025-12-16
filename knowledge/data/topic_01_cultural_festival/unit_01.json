@@ -1,0 +1,135 @@
+{
+  "title_cn": "观光景点",
+  "title_ja": "観光スポット",
+  "title_en": "Tourist attractions",
+  "words": [
+    {
+      "id": 1,
+      "kanji": "東京スカイツリー",
+      "hiragana": "とうきょうスカイツリー",
+      "romaji": "Tō kyo su ka i tsu rī",
+      "chinese": "东京晴空塔",
+      "address": "东京"
+    },
+    {
+      "id": 2,
+      "kanji": "東京タワー",
+      "hiragana": "とうきょうタワー",
+      "romaji": "to kyô ta wà",
+      "chinese": "东京铁塔",
+      "address": "东京"
+    },
+    {
+      "id": 3,
+      "kanji": "明治神宮",
+      "hiragana": "めいじじんぐう",
+      "romaji": "me i ji jin gū",
+      "chinese": "明治神宫",
+      "address": "东京"
+    },
+    {
+      "id": 4,
+      "kanji": "空中庭園展望台",
+      "hiragana": "くちゅうてえんてんぼだい",
+      "romaji": "ku chu te e n te n bo da i ",
+      "chinese": "明治神宫",
+      "address": "东京"
+    },
+    {
+      "kanji": "清水寺",
+      "romaji": "Kiyo mi zu de ra",
+      "chinese": "清水寺",
+      "address": "京都"
+    },
+    {
+      "kanji": "伏見稲荷大社",
+      "romaji": "Fu shi mi i na ri tai sha",
+      "chinese": "伏见稻荷大社",
+      "address": "京都"
+    },
+    {
+      "kanji": "金閣寺",
+      "romaji": "Kin ka ku ji",
+      "chinese": "金阁寺",
+      "address": "京都"
+    },
+    {
+      "kanji": "嵐山",
+      "romaji": "A ra shi ya ma",
+      "chinese": "岚山",
+      "address": "京都"
+    },
+    {
+      "kanji": "道頓堀",
+      "romaji": "Dō ton bo ri",
+      "chinese": "道顿堀",
+      "address": "大阪"
+    },
+    {
+      "kanji": "大阪城",
+      "romaji": "Ō sa ka jō",
+      "chinese": "大阪城",
+      "address": "大阪"
+    },
+    {
+      "kanji": "奈良公園",
+      "romaji": "Na ra kō en",
+      "chinese": "奈良公园",
+      "address": "奈良"
+    },
+    {
+      "kanji": "東大寺",
+      "romaji": "Tō dai ji",
+      "chinese": "东大寺",
+      "address": "奈良"
+    },
+    {
+      "kanji": "札幌時計台",
+      "romaji": "Sap po ro to kei dai",
+      "chinese": "札幌钟楼",
+      "address": "北海道"
+    },
+    {
+      "kanji": "小樽運河",
+      "romaji": "O ta ru un ga",
+      "chinese": "小樽运河",
+      "address": "北海道"
+    },
+    {
+      "kanji": "美ら海水族館",
+      "romaji": "Chi yu ra u mi su i zo ku kan",
+      "chinese": "美丽海水族馆",
+      "address": "冲绳"
+    },
+    {
+      "kanji": "首里城",
+      "romaji": "Shu ri jō",
+      "chinese": "首里城",
+      "address": "冲绳"
+    },
+
+    {
+      "kanji": "浅草寺",
+      "romaji": "Sen sō ji",
+      "chinese": "浅草寺",
+      "address": "东京"
+    },
+    {
+      "kanji": "渋谷スクランブル交差点",
+      "romaji": "Shi bu ya su ku ran bu ru kō sa ten",
+      "chinese": "涩谷十字路口",
+      "address": "东京"
+    },
+    {
+      "kanji": "富士山",
+      "romaji": "Fu ji san",
+      "chinese": "富士山",
+      "address": "山梨、静岡"
+    }
+  ],
+  "conversation": {
+    "japanese": [],
+    "chinese": []
+  },
+  "text": {}
+}
